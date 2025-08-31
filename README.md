@@ -12,13 +12,13 @@ The goal is to create a **professional and interactive dashboard** that provides
 - **Excel Dashboard** (`Sales Analysis.xlsx`)
 - **Power BI Dashboard** (`Sales analysis.pbix`)
 - **Presentation** (`Northwind-Traders-Capstone-Dashboard.pptx`)
-- **Project Report** (`sales analysis.pdf`)- **Demo Video** (YouTube/Drive link below)
+- **Project Report** (`sales analysis.pdf`)
 
 ---
 
 ## 🔗 Links
 - **GitHub Repository**: https://github.com/akhilsanthosh/Sales_Analysis_Capstone_Project  
-- **Deployed Dashboard**: [OneDrive / Power BI Service Link]  
+- **Deployed Dashboard**: https://1drv.ms/u/c/6DAB40C369CD4128/Eb25ovD4ACRLmYxRBRtYMp0BQy0zdM1Ev-ZkEKwgxfENlA?e=MYV9Ao  
 - **Demo Video**: [YouTube / Google Drive Link]
 
 ---
